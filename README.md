@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <!-- GIF 1: ilustración minimalista de hombre programando -->
-  <img src="https://media.giphy.com/media/3o7aD4O4stO8RSftu4/giphy.gif" width="300" alt="Hombre programando minimalista" />
+  <!-- GIF 1: minimalista, concentrado programando -->
+  <img src="https://gifs.anmolbaranwal.com/coding/coding-1.gif" width="300" alt="Hombre concentrado programando" />
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ## 🎇 Mi mood como desarrollador
 
 <p align="center">
-  <!-- GIF 2: minimalista, hombre enfocado codificando -->
-  <img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="300" alt="Hombre tipeando código minimalista" />
+  <!-- GIF 2: minimalista, manos en teclado y código fluyendo -->
+  <img src="https://gifs.anmolbaranwal.com/coding/coding-2.gif" width="300" alt="Hombre programando minimalista" />
   <br />
   <em>"¡Creando, aprendiendo y evolucionando cada día!"</em>
 </p>
