@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <!-- GIF 1: hombre concentrado programando -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Hombre programando" />
+  <!-- GIF 1: programador concentrado minimalista -->
+  <img src="https://media.giphy.com/media/ZyTO4lrrW3evm/giphy.gif" width="300" alt="Hombre programando minimalista" />
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ## 🎇 Mi mood como desarrollador
 
 <p align="center">
-  <!-- GIF 2: frustración y foco en el código -->
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="300" alt="Hombre frustrado programando" />
+  <!-- GIF 2: programador tipeando minimalista -->
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300" alt="Hombre escribiendo código minimalista" />
   <br />
   <em>"¡Creando, aprendiendo y evolucionando cada día!"</em>
 </p>
