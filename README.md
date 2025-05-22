@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programador ilustración" />
 </p>
 
 ---
@@ -59,7 +59,8 @@
 ## 🎇 Mi mood como desarrollador
 
 <p align="center">
-  <img src="[[[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="300" />
+  <!-- GIF corregido: minimalista, hombre enfocándose en el código -->
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Hombre codificando minimalista" />
   <br />
   <em>"¡Creando, aprendiendo y evolucionando cada día!"</em>
 </p>
