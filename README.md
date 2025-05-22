@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- GIF 1: ilustración minimalista de hombre programando -->
-  <img src="https://media.giphy.com/media/3o7aD4O4stO8RSftu4/giphy.gif" width="300" alt="Hombre programando minimalista" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
@@ -49,11 +48,18 @@
 
 ---
 
+## 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlon-Parra&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
+
+---
+
 ## 🎇 Mi mood como desarrollador
 
 <p align="center">
-  <!-- GIF 2: minimalista, hombre enfocado codificando -->
-  <img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="300" alt="Hombre escribiendo código minimalista" />
+  <img src="[[[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="300" />
   <br />
   <em>"¡Creando, aprendiendo y evolucionando cada día!"</em>
 </p>
