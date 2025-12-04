@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marlon-Parra&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Parra&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Parra&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
 ## 📈 Actividad Reciente
 
 <p align="center">
