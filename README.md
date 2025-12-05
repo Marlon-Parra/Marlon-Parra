@@ -1,66 +1,36 @@
-<h1 align="center">🪄 ¡Hola! Soy <span style="color:#00F7FF;">Marlon Eduardo Parra Ruedas</span></h1>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00F7FF;">Marlon Eduardo Parra Ruedas</span></h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Programador+Junior+en+crecimiento+🧠;Desarrollador+en+formación+💻;Transformando+ideas+en+proyectos+reales+🚀" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Ilustración Programación" /> </p>
+🌟 Sobre mí
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Programador+Junior+en+crecimiento+🧠;Transformando+ideas+en+código+💻;Caminando+hacia+el+futuro+tech+🚀" alt="Typing SVG" />
-</p>
+Soy un programador junior en crecimiento, con interés en el desarrollo backend y en la gestión de datos. Actualmente estoy fortaleciendo mis habilidades técnicas a través de proyectos reales, explorando nuevas tecnologías y practicando buenas prácticas de desarrollo.
 
-<p align="center">
-  <!-- GIF principal -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programador ilustración" />
-</p>
+📍 Desde Cúcuta, Colombia 🇨🇴
+💡 Motivado por aprender e implementar soluciones útiles
+🎯 Objetivo: Convertirme en desarrollador profesional especializado
+🚀 En constante evolución dentro del mundo tech
 
----
+🛠️ Lenguajes y herramientas
+💻 Lenguajes
+<p> <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> </p>
+🧰 Herramientas y entornos
+<p> <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> </p>
+🚀 Actualmente enfocado en:
 
-## 🌟 Sobre mí
+✔ Fortalecer estructuras de datos y lógica
+✔ Optimización de consultas SQL
+✔ Desarrollo backend en Java
+✔ Proyectos aplicados a problemas reales
 
-✨ Desde la mágica Cúcuta, Colombia 🇨🇴  
-👨‍💻 Programador junior con energía y curiosidad infinita  
-🐍 Entusiasta del Python y sus infinitas posibilidades  
-📚 Apasionado por aprender, experimentar y compartir  
-🎯 Mi meta: escribir código que inspire y transforme  
+📁 Mi portafolio profesional
 
----
+➡️ Puedes ver mis proyectos y avances aquí:
+https://portafolio-faal.vercel.app/
 
-## 🔧 Mis herramientas y lenguajes favoritos
+📊 Actividad reciente
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlon-Parra&theme=tokyo-night&area=true" alt="activity graph" /> </p>
+🎇 Mi mood como desarrollador
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" /> <br /> <em>"Aprendiendo, construyendo y mejorando cada día."</em> </p>
+📫 Contacto
 
-### 💻 Lenguajes
+✉️ Email: marlonparra765@gmail.com
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-
-### 🛠️ Herramientas que uso
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-
----
-
-## 📈 Actividad Reciente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlon-Parra&theme=tokyo-night&area=true" alt="activity graph" />
-</p>
-
----
-
-## 🎇 Mi mood como desarrollador
-
-<p align="center">
-  <!-- GIF mood proporcionado -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMXpkaDRvbnB6ZTd1Nmcyb3pzZzY3NThnYXdiOTU4cHJwYXo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Mi mood como desarrollador" />
-  <br />
-  <em>"¡Creando, aprendiendo y evolucionando cada día!"</em>
-</p>
-
----
-
-## 📫 ¿Quieres contactarme?
-
-✉️ **Email:** marlonparra765@gmail.com  
-🌐 *Mi portafolio está en construcción... ¡pronto verás grandes cosas!* 🏗️
-
----
-
-<p align="center"><em>“Cada línea de código es un paso más cerca de transformar el mundo. ¡Gracias por estar aquí! 🚀☕”</em></p>
+<p align="center"><em>“La disciplina y la constancia son el camino para crear soluciones profesionales y de impacto.”</em></p>
